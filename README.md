@@ -5,7 +5,7 @@
 
 - 🔭 **Сейчас работаю над:** Операционной системой [KeyOS](https://github.com/Fgderty/KeyOS) (x86, Freestanding C, NASM).
 - 🌱 **Изучаю:** Архитектуру x86, разработку ядра, реверс-инжиниринг.
-- 💬 **Связаться со мной:** [Telegram](https://t.me/keyos_devlog) | [Email](mailto:klimovna132465@gmail.com)
+- 💬 **Связаться со мной:** [Telegram](https://t.me/keyos_devlog) | [Email](gmail:klimovna132465@gmail.com)
 
 ### 🛠️ Мой стек технологий
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
